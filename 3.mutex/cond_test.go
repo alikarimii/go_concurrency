@@ -3,7 +3,7 @@ package mutex_test
 import (
 	"testing"
 
-	"github.com/alikarimii/go_concurrency/mutex"
+	mutex "github.com/alikarimii/go_concurrency/3.mutex"
 )
 
 func TestCond(t *testing.T) {

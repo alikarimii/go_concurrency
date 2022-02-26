@@ -3,7 +3,7 @@ package goroutines_test
 import (
 	"testing"
 
-	"github.com/alikarimii/go_concurrency/goroutines"
+	goroutines "github.com/alikarimii/go_concurrency/1.goroutines"
 )
 
 func TestRun(t *testing.T) {
