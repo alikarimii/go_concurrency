@@ -145,3 +145,9 @@ Multiple functions can read from the same channel until that channel is closed; 
 | API Server Connection |     |     |     |     |     |
 | Authorization Token   | ✓   | ✓   | ✓   | ✓   |     |
 | Request Token         | ✓   | ✓   | ✓   |     |     |
+
+---
+
+## Scatter/Gather
+
+this pattern is base on this article in [medium](https://medium.com/star-gazers/go-scatter-gather-pattern-a439c70afe16)
